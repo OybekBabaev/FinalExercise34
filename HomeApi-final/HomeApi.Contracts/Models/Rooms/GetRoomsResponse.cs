@@ -1,4 +1,6 @@
-﻿namespace HomeApi.Contracts.Models.Rooms
+﻿using System;
+
+namespace HomeApi.Contracts.Models.Rooms
 {
     public class GetRoomsResponse
     {
